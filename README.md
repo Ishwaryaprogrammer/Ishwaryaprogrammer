@@ -1,7 +1,7 @@
-[![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)](http://Ishwaryaprogrammer.io)
+[![MasterHead](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)](http://Ishwaryaprogrammer.io)
 <h1 align="center">Hello 👋, I'm Ishwarya Suresh</h1>
 <h3 align="center">Student at KCG TECH | Intern at SIM INFOSYSTEMS</h3>
-<img align="right" alt="coding" width="400" src"https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
+<img align="right" alt="coding" width="400" src"https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishwaryaprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="ishwaryaprogrammer" /> </p>
 
