@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **CareCompanion**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **Mental Wellness projects**
+- 👯 I’m looking to collaborate on **MERN and AIML projects**
 
-- 💬 Lets discuss about **Python, mysql and java swing**
+- 💬 Lets discuss about **DSA, mysql, mongoDB and MERN**
 
 - 📫 Feel free to fire off an email anytime! **ishwaryasuresh2004@gmail.com**
 
